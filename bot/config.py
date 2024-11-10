@@ -1,0 +1,2 @@
+# config.py
+TELEGRAM_TOKEN = '7933625026:AAHmQitknJw-dYI5mty_o-tVKwhUM9MnQHI'
