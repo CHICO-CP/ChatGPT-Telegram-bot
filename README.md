@@ -1,7 +1,8 @@
 # 🤖 ChatGPT Telegram Bot
 
 This Telegram bot integrates ChatGPT's AI (using the Gemini API) to interact with users. It answers questions, provides assistance, handles commands, and stores queries for future analysis.
-
+## Channel
+Channel: https://t.me/+KQkliYhDy_U1N2Ex
 ## 🚀 Features
 
 - 🌟 Automatic responses to user queries.
