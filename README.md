@@ -27,11 +27,11 @@ This Telegram bot integrates ChatGPT's AI (using the Gemini API) to interact wit
     cd ChatGPT-Telegram-bot
     ```
 
-2. Edit a `config.py` add your credentials:
+2. Edit `config.py` add your credentials:
     ```
     TELEGRAM_API_KEY=your_telegram_token
     ```
-3. Edit a `openai_api` file add your api
+3. Edit `openai_api` file add your api
     ```
     OPENAI_API_KEY=your_openai_api_key
     ```
