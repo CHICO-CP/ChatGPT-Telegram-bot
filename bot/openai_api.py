@@ -1,7 +1,7 @@
 import aiohttp
 import os
 
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyBdryldIcRC3Tt8n0viY_CstYY0TCFRGuQ")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "YOUR_API_TOKEN")
 
 async def get_gemini_response(query):
     headers = {
