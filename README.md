@@ -31,7 +31,7 @@ This Telegram bot integrates ChatGPT's AI (using the Gemini API) to interact wit
     ```
     TELEGRAM_API_KEY=your_telegram_token
     ```
-3. Edit `openai_api` file add your api
+3. Edit `openai_api` add your api key
     ```
     OPENAI_API_KEY=your_openai_api_key
     ```
